@@ -1,7 +1,9 @@
 # 💥 Olá, eu sou Jorge de Jesus Cardoso! 👋
 
 Sou um programador full stack apaixonado por criar soluções criativas e eficientes. Tenho experiência em diversas tecnologias, mas minhas stacks principais são:
-<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" style="width: 40px; heigth: 40px" /> <img src="https://cdn.iconscout.com/icon/free/png-256/free-typescript-1174965.png?f=webp" style="width: 40px; heigth: 40px" /> <img src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" style="width: 20px; heigth: 20px" />
+
+<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" style="width: 40px; heigth: 40px" /> <img src="https://cdn.iconscout.com/icon/free/png-256/free-typescript-1174965.png?f=webp" style="width: 40px; heigth: 40px" /> <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/javascript-3.png" style="width: 20px; heigth: 20px" />
+
 - **Linguagens**: JavaScript , TypeScript, Python ✅
 - **Frontend**: React,BrowserRouter, Redux, Styled-Components, BootStrap, TailWind ✅
 - **Backend**: Node.js, Express.js, FLASK ✅
