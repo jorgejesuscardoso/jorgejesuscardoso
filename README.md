@@ -13,7 +13,7 @@ Sou um programador full stack apaixonado por criar soluções criativas e eficie
 - **Plataforma**: Docker, Trello ✅
 - **Sof Skills**: Comunicação, Trabalho em equipe, Pensamento crítico, Adaptabilidade, Feed Back,Gestão de tempo, Resiliẽncia, Empatia, Inteligẽcia emocional, Liderança, Criatividade. ✅✅
 
-## Sobre Mim 🚹 💻 ✏️
+## Sobre Mim 💻 ✏️
 
 Sou um programador full stack júnior em busca de oportunidades para crescer na área, tanto como efetivo ou como estagiário. Possuo habilidades em programação full stack, utilizando tecnologias modernas e seguras como React, JavaScript, TypeScript, Redux, Context API, Styled-Components, Node.js, Express.js, ORM Sequelize, MySQL, Bcrypt e JWT. Além disso, aplico conceitos de Programação Orientada a Objetos (POO) e Desenvolvimento Orientado a Testes (TDD), bem como metodologias ágeis como Scrum e utilizo o Trello para gerenciamento de projetos.
 
