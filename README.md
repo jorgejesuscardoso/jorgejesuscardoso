@@ -43,6 +43,7 @@ Não hesite em entrar em contato comigo para discutir suas necessidades de desen
 
 - [Bushido School](https://github.com/jorgejesuscardoso/bushido_high_school):  Em pausa. A Escola Bushido é um projeto pessoal para um site onde pretendo dar aulas de programação, vender meus serviços freelancers e exibo meus trabalhos. Será possível registrar alunos e professores, seguindo as permissões baseada em roles e tokens. ⏸️
 - [Content Creator](https://github.com/jorgejesuscardoso/content_creator): Em andamento. Este projeto tem como objetivo criar uma plataforma que permite ao criador de conteúdo automatizar o processo de solicitação de seus serviços por parte dos clientes. Além disso, visa proporcionar a oportunidade de exibir seus trabalhos em um portfólio hospedado em seu próprio site. 🔄
+- [App de receitas](https://github.com/jorgejesuscardoso/App-de-receitas): Concluído. Esse projeto tem como foco exibir varios tipos de receitas, tanto de alimentos quanto de bebidas. É possível pesquisar por vários tipos diferentes de receitas, marca como em andamento, concluido, ver todos os ingredientes e marcar os que tem e os que falta, salvar as favoritas e compartilhar os links das receitas. Esse foi um projeto desafiador, pois foi enquanto ainda esta estudando frontend e foi meu segundo projeto em grupo. ✅
 
 ## Contato 📧
 
