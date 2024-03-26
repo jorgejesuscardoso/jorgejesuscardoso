@@ -46,7 +46,7 @@ Não hesite em entrar em contato comigo para discutir suas necessidades de desen
 
 ## Contato 📧
 
-- LinkedIn: [Jorge Cardoso]([link](https://www.linkedin.com/in/jorgejesuscardoso/)) <img src="https://static-00.iconduck.com/assets.00/linkedin-icon-1024x1024-net2o24e.png" style="width: 20px; heigth: 20px" />
+- LinkedIn: [Jorge Cardoso](https://www.linkedin.com/in/jorgejesuscardoso/)  <img src="https://static-00.iconduck.com/assets.00/linkedin-icon-1024x1024-net2o24e.png" style="width: 20px; heigth: 20px" />
 - Email: tst.jorgecardoso@gmail.com <img src="https://logowik.com/content/uploads/images/gmail-new-icon5198.jpg" style="width: 20px; heigth: 20px" />
 - Website: [Portal pessoal e Portfólio](https://cndev.netlify.app/) <img src="https://cdn-icons-png.flaticon.com/512/5602/5602732.png" style="width: 20px; heigth: 20px" />
 
