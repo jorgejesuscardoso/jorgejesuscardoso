@@ -32,7 +32,7 @@ Minha trajetória é marcada por uma busca contínua por conhecimento, refletida
 
 ## Objetivos
 
-Estou focado em **TypeScript**, **POO** e **SOLID** para continuar aprimorando minhas habilidades em desenvolvimento web. **C#** é minha linguagem secundária, que estudo nos tempos livres para expandir meu conhecimento em novos paradigmas. Além disso, utilizo **Python** para aprofundar meu conhecimento em estruturas de dados, como filas e pilhas, visando melhorar a eficiência na resolução de problemas.
+Estou focado em estudar mais sobre **TypeScript**, **POO** e **SOLID** para continuar aprimorando minhas habilidades em desenvolvimento web. **C#** é minha linguagem secundária, que estudo nos tempos livres para expandir meu conhecimento em novos paradigmas. Além disso, utilizo **Python** para aprofundar meu conhecimento em estruturas de dados, como filas e pilhas, visando melhorar a eficiência na resolução de problemas.
 
 Meu objetivo é aplicar esses conhecimentos em um ambiente profissional, contribuindo para o desenvolvimento de projetos reais, mesmo que como estagiário, a fim de ganhar experiência prática e evoluir como desenvolvedor.
 
