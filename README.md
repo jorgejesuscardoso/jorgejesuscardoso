@@ -7,7 +7,6 @@ Minha jornada profissional é marcada pela busca contínua de conhecimento e exc
 ## Principais Stacks
 
   - TypeScript <img src="https://cdn.iconscout.com/icon/free/png-256/free-typescript-1174965.png?f=webp" style="width: 20px; height: 20px;" />
-  - JavaScript <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/javascript-3.png" style="width: 20px; height: 20px;" />
   - NodeJS <img src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" style="width: 20px; height: 20px;" />
   - Express <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Status_iucn_EX_icon.svg/480px-Status_iucn_EX_icon.svg.png" style="width: 20px; height: 20px;" />
   - MySQL <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" style="width: 20px; height: 20px;" />
@@ -37,15 +36,15 @@ Atualmente, estou estudando e aprofundando meus conhecimentos nas seguintes áre
 
 - **TypeScript:** Meu foco principal é aprimorar práticas e padrões de programação com TypeScript para garantir um código mais seguro e escalável.
   
-- **Princípios SOLID:** Aplicar os princípios SOLID para melhorar a estrutura e a manutenção do código em sistemas orientados a objetos.
+- **Princípios SOLID:** Aplicar os princípios SOLID para melhorar a estrutura e a manutenção do código.
   
-- **Programação Orientada a Objetos (POO):** Utilizar conceitos de POO, como encapsulamento, herança e polimorfismo, para criar soluções mais eficientes e flexíveis.
+- **Programação Orientada a Objetos (POO):** Utilizar conceitos de POO, como encapsulamento, herança e polimorfismo.
 
-- **C#:** Estudando C# nos meus tempos livres para explorar recursos avançados e desenvolver aplicações robustas. (Estudo secundário)
+- **C#:** Estudando C# nos meus tempos livres. (Estudo secundário)
   
-- **Estruturas de Dados:** Estudando diferentes estruturas de dados nos meus tempos livres, como filas e pilhas, para melhorar a eficiência e a performance das aplicações. (Estudo secundário em Python)
+- **Estruturas de Dados:** Estudando estruturas de dados, como filas e pilhas, para melhorar a eficiência e a performance das aplicações. (Estudo secundário em Python)
 
-Estou focado em **TypeScript**, **POO** e Princípios **SOLID** para aprofundar minhas habilidades em desenvolvimento web. Estudo **C#** como uma habilidade secundária para expandir meu conhecimento em diferentes paradigmas. Também estou aprendendo estruturas de dados em **Python** para melhorar minha capacidade de resolver problemas, mesmo que **Python** não seja meu foco principal nem secundário. Esse plano equilibrado maximiza minha especialização e versatilidade como desenvolvedor.
+Meu foco é **TypeScript**, **POO** e **SOLID** para aprimorar minhas habilidades em desenvolvimento web. Estudo **C#** como secundário para explorar novos paradigmas. Estou aprendendo estruturas de dados em **Python** para melhorar a resolução de problemas, aproveitando sua simplicidade. Esse plano de estudo maximiza minha especialização e versatilidade como desenvolvedor.
 
 ## Contato
 
