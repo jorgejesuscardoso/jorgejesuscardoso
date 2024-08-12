@@ -11,8 +11,8 @@ Minha jornada profissional é marcada pela busca contínua de conhecimento e exc
   - NodeJS <img src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" style="width: 20px; height: 20px;" />
   - Express <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Status_iucn_EX_icon.svg/480px-Status_iucn_EX_icon.svg.png" style="width: 20px; height: 20px;" />
   - MySQL <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" style="width: 20px; height: 20px;" />
-  - C# <img src="https://www.shutterstock.com/shutterstock/photos/1764554234/display_1500/stock-vector-emblem-of-c-sharp-programming-language-blue-hexagon-with-the-letter-c-and-number-symbol-inside-1764554234.jpg" style="width: 10px; height: 10px;" />
-  - Docker <img src="https://cdn.worldvectorlogo.com/logos/docker.svg"  style="width: 10px; height: 10px;" />
+  - C# <img src="https://www.shutterstock.com/shutterstock/photos/1764554234/display_1500/stock-vector-emblem-of-c-sharp-programming-language-blue-hexagon-with-the-letter-c-and-number-symbol-inside-1764554234.jpg" style="width: 20px; height: 20px;" />
+  - Docker <img src="https://cdn.worldvectorlogo.com/logos/docker.svg"  style="width: 20px; height: 20px;" />
 
 ## Cursos e Certificados
 - [Desenvolvimento web Full stack](https://www.credential.net/1e1975bb-7c61-4aec-a77d-a81c8c199d8b#gs.cz1vvs).
