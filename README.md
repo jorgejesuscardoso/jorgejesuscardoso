@@ -1,6 +1,6 @@
 # Sobre Mim
 
-Sou Jorge de Jesus Cardoso, um desenvolvedor Full Stack com diversas certificações em desenvolvimento web, tanto no front-end quanto no back-end. Minha paixão pela programação me levou a especializar em tecnologias como TypeScript, JavaScript, React, Node.js, e C#, além de dominar ferramentas como Docker e Sequelize.
+Sou Jorge de Jesus Cardoso, um desenvolvedor Full Stack, focado em backend. Minha paixão pela programação me levou a especializar em tecnologias como TypeScript, Express, Node.js, e C#.
 
 Minha jornada profissional é marcada pela busca contínua de conhecimento e excelência, refletida em certificados como o de Desenvolvimento Web Full Stack, Excelência no Módulo de Backend e outras qualificações que me capacitaram a construir aplicações robustas, escaláveis e de alta performance.
 
@@ -8,11 +8,9 @@ Minha jornada profissional é marcada pela busca contínua de conhecimento e exc
 
   - TypeScript <img src="https://cdn.iconscout.com/icon/free/png-256/free-typescript-1174965.png?f=webp" style="width: 20px; height: 20px;" />
   - JavaScript <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/javascript-3.png" style="width: 20px; height: 20px;" />
-  - React <img src="https://cdn.iconscout.com/icon/free/png-256/free-react-1-282599.png?f=webp" style="width: 20px; height: 20px;" />
   - NodeJS <img src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" style="width: 20px; height: 20px;" />
   - Express <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Status_iucn_EX_icon.svg/480px-Status_iucn_EX_icon.svg.png" style="width: 20px; height: 20px;" />
   - MySQL <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" style="width: 20px; height: 20px;" />
-  - Sequelize <img src="https://open-telemetry.github.io/opentelemetry-sqlcommenter/images/sequelize-logo.png"  style="width: 20px; height: 20px;" />
   - C# <img src="https://www.shutterstock.com/shutterstock/photos/1764554234/display_1500/stock-vector-emblem-of-c-sharp-programming-language-blue-hexagon-with-the-letter-c-and-number-symbol-inside-1764554234.jpg" style="width: 10px; height: 10px;" />
   - Docker <img src="https://cdn.worldvectorlogo.com/logos/docker.svg"  style="width: 10px; height: 10px;" />
 
@@ -22,7 +20,7 @@ Minha jornada profissional é marcada pela busca contínua de conhecimento e exc
 - [Backend](https://www.credential.net/09d51e17-e943-4f2c-a10c-e18fadd354fd#gs.cz1wgd).
 - [Certificado de excelência no módulo de backend](https://www.credential.net/37371a47-8cfb-4470-8d26-e4e44c0fe310#gs.cz1w74).
 - [Ciência da Computação](https://www.credential.net/df4b3d9c-6ad5-428a-9629-f692c61df1c8?record_view=true).
-- [C#](https://www.credential.net/cebaf7f2-1d6d-4348-889a-d2551995467b#gs.cz1w4b).
+- [Eletiva C#](https://www.credential.net/cebaf7f2-1d6d-4348-889a-d2551995467b#gs.cz1w4b).
 
 ## Hobbies
 
@@ -45,9 +43,9 @@ Atualmente, estou estudando e aprofundando meus conhecimentos nas seguintes áre
 
 - **C#:** Estudando C# nos meus tempos livres para explorar recursos avançados e desenvolver aplicações robustas. (Estudo secundário)
   
-- **Estruturas de Dados:** Estudar diferentes estruturas de dados, como filas e pilhas, para melhorar a eficiência e a performance das aplicações. (Estudo terciário em Python)
+- **Estruturas de Dados:** Estudando diferentes estruturas de dados meus tempos livres, como filas e pilhas, para melhorar a eficiência e a performance das aplicações. (Estudo secundário em Python)
 
-Estou focado em **TypeScript**, **POO** e Princípios **SOLID** para aprofundar minhas habilidades em desenvolvimento web. Estudo **C#** como uma habilidade secundária para expandir meu conhecimento em diferentes paradigmas. Também estou aprendendo estruturas de dados em **Python** para melhorar minha capacidade de resolver problemas, mesmo que **Python** não seja meu foco principal. Esse plano equilibrado maximiza minha especialização e versatilidade como desenvolvedor.
+Estou focado em **TypeScript**, **POO** e Princípios **SOLID** para aprofundar minhas habilidades em desenvolvimento web. Estudo **C#** como uma habilidade secundária para expandir meu conhecimento em diferentes paradigmas. Também estou aprendendo estruturas de dados em **Python** para melhorar minha capacidade de resolver problemas, mesmo que **Python** não seja meu foco principal nem secundário. Esse plano equilibrado maximiza minha especialização e versatilidade como desenvolvedor.
 
 ## Contato
 
