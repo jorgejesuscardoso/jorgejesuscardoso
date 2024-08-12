@@ -43,7 +43,7 @@ Atualmente, estou estudando e aprofundando meus conhecimentos nas seguintes áre
 
 - **C#:** Estudando C# nos meus tempos livres para explorar recursos avançados e desenvolver aplicações robustas. (Estudo secundário)
   
-- **Estruturas de Dados:** Estudando diferentes estruturas de dados meus tempos livres, como filas e pilhas, para melhorar a eficiência e a performance das aplicações. (Estudo secundário em Python)
+- **Estruturas de Dados:** Estudando diferentes estruturas de dados nos meus tempos livres, como filas e pilhas, para melhorar a eficiência e a performance das aplicações. (Estudo secundário em Python)
 
 Estou focado em **TypeScript**, **POO** e Princípios **SOLID** para aprofundar minhas habilidades em desenvolvimento web. Estudo **C#** como uma habilidade secundária para expandir meu conhecimento em diferentes paradigmas. Também estou aprendendo estruturas de dados em **Python** para melhorar minha capacidade de resolver problemas, mesmo que **Python** não seja meu foco principal nem secundário. Esse plano equilibrado maximiza minha especialização e versatilidade como desenvolvedor.
 
