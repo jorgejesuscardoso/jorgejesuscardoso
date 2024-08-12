@@ -2,7 +2,7 @@
 
 Sou Jorge de Jesus Cardoso, um desenvolvedor Full Stack, focado em backend. Minha paixão pela programação me levou a especializar em tecnologias como TypeScript, Express, Node.js, e C#.
 
-Minha jornada profissional é marcada pela busca contínua de conhecimento e excelência, refletida em certificados como o de Desenvolvimento Web Full Stack, Excelência no Módulo de Backend e outras qualificações que me capacitaram a construir aplicações robustas, escaláveis e de alta performance.
+Minha trajetória é marcada por uma busca contínua por conhecimento, refletida em diversas certificações, como Desenvolvimento Web Full Stack e Excelência no Módulo de Backend. Estou constantemente aprimorando minhas habilidades para entregar soluções eficientes e de qualidade.
 
 ## Principais Stacks
 
@@ -32,19 +32,9 @@ Minha jornada profissional é marcada pela busca contínua de conhecimento e exc
 
 ## Objetivos
 
-Atualmente, estou estudando e aprofundando meus conhecimentos nas seguintes áreas:
+Estou focado em **TypeScript**, **POO** e **SOLID** para continuar aprimorando minhas habilidades em desenvolvimento web. **C#** é minha linguagem secundária, que estudo nos tempos livres para expandir meu conhecimento em novos paradigmas. Além disso, utilizo **Python** para aprofundar meu conhecimento em estruturas de dados, como filas e pilhas, visando melhorar a eficiência na resolução de problemas.
 
-- **TypeScript:** Meu foco principal é aprimorar práticas e padrões de programação com TypeScript para garantir um código mais seguro e escalável.
-  
-- **Princípios SOLID:** Aplicar os princípios SOLID para melhorar a estrutura e a manutenção do código.
-  
-- **Programação Orientada a Objetos (POO):** Utilizar conceitos de POO, como encapsulamento, herança e polimorfismo.
-
-- **C#:** Estudando C# nos meus tempos livres. (Estudo secundário)
-  
-- **Estruturas de Dados:** Estudando estruturas de dados, como filas e pilhas, para melhorar a eficiência e a performance das aplicações. (Estudo secundário em Python)
-
-Meu foco é **TypeScript**, **POO** e **SOLID** para aprimorar minhas habilidades em desenvolvimento web. Estudo **C#** como secundário para explorar novos paradigmas. Estou aprendendo estruturas de dados em **Python** para melhorar a resolução de problemas, aproveitando sua simplicidade. Esse plano de estudo maximiza minha especialização e versatilidade como desenvolvedor.
+Meu objetivo é aplicar esses conhecimentos em um ambiente profissional, contribuindo para o desenvolvimento de projetos reais, mesmo que como estagiário, a fim de ganhar experiência prática e evoluir como desenvolvedor.
 
 ## Contato
 
